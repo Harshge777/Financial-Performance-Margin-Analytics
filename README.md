@@ -43,6 +43,8 @@ The objective is to identify important business trends and generate actionable i
 - Average shipping duration was approximately 3.23 days.
 
 ## Project Structure
+
+```text
 Financial_Performance_Analytics/
 ├── dashboard/
 │   └── Financial_Performance_Analytics.pbix
@@ -58,6 +60,19 @@ Financial_Performance_Analytics/
 ```
 
 ## Conclusion
+
 This project demonstrates an end-to-end financial analytics workflow, combining Python, SQL, and Power BI to transform transaction data into meaningful business insights and recommendations.
 
 **Note:** The dataset is synthetic. All findings are illustrative and should not be interpreted as actual company performance.
+
+---
+
+## Dashboard Preview
+
+### 1. Financial Overview
+
+![Financial Overview](Images/financial_overview.png)
+
+### 2. Product, Customer & Shipping Analysis
+
+![Product, Customer & Shipping Analysis](Images/product_customer_shipping.png)
